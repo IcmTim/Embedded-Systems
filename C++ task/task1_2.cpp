@@ -14,9 +14,9 @@ int main() {
     };
 
     map<string, char> conditions = {
-        {"Monday", 'R'},   // Rainy
-        {"Tuesday", 'C'},  // Cloudy
-        {"Wednesday", 'S'},// Sunny
+        {"Monday", 'R'},
+        {"Tuesday", 'C'}, 
+        {"Wednesday", 'S'},
         {"Thursday", 'S'},
         {"Friday", 'R'},
         {"Saturday", 'S'},
